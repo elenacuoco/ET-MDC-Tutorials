@@ -1,4 +1,6 @@
 # Einstein Telescope Mock Data Challenge Analysis
+[[ETworkshop2024]https://agenda.infn.it/event/38405/] February 20-23th in Assisi
+
 
 ## Overview
 
@@ -9,7 +11,7 @@ The Mock Data Challenge involves simulating gravitational-wave signals and testi
 
 ## Contents
 
-1. **caches**: This directory contains the pointer to mock data generated for the challenge. 
+1. **caches**: This directory contains the pointer to mock data generated for the challenge and the ffl file. 
 
 2. **notebooks**: The main codebase for the analysis is located in this directory. It includes scripts for signal generation, noise simulation, and various algorithms for detecting and characterizing gravitational-wave signals.
 
@@ -19,8 +21,12 @@ The Mock Data Challenge involves simulating gravitational-wave signals and testi
 
 ## Getting Started
 
-1. Clone this repository
- 
+
+1. Connect to  https://jhub-vre.cern.ch/
+2. Use your ESCAPE AAI to connect
+3. Load the WDF-Virgo environment 
+4. Clone this repository
+
 
 ## Contributing
 
@@ -31,6 +37,8 @@ If you would like to contribute to the development of this analysis code, please
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
+
+The ESCAPE VRE (https://vre-hub.github.io/) team and Enrique Garcia Garcia enrique.garcia.garcia at cern.ch for his valuable support
 
  
 
