@@ -1,5 +1,5 @@
 # Einstein Telescope Mock Data Challenge Analysis
-[[ETworkshop2024]https://agenda.infn.it/event/38405/] February 20-23th in Assisi
+[ETworkshop2024] (https://agenda.infn.it/event/38405/) February 20-23th in Assisi
 
 
 ## Overview
