@@ -31,7 +31,7 @@ The Mock Data Challenge involves simulating gravitational-wave signals and testi
 
 1. **caches**: This directory contains the pointer to mock data generated for the challenge and the ffl file. 
 
-2. **notebooks**: The main codebase for the analysis is located in this directory. It includes scripts for signal generation, noise simulation, and various algorithms for detecting and characterizing gravitational-wave signals.
+2. **notebooks**: The main codebase for the analysis is located in this directory. It includes scripts for detecting and characterizing gravitational-wave signals.
 
 3. **metadata**: It containd the list of injected signals
 
