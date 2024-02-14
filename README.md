@@ -1,6 +1,9 @@
 # Einstein Telescope Mock Data Challenge Analysis
 [ETworkshop2024] (https://agenda.infn.it/event/38405/) February 20-23th in Assisi
 
+## Author
+- Author: [Elena Cuoco]
+- Contact: [elena.cuoco@ego-gw.it]
 
 ## Overview
 
@@ -8,6 +11,21 @@ This repository contains notebook  and scripts for analyzing the Mock Data Chall
 the universe through the observation of gravitational waves.
 
 The Mock Data Challenge involves simulating gravitational-wave signals and testing the capability of data analysis algorithms to detect and characterize these signals in the presence of noise.
+
+## Materials reference
+- https://gitlab.et-gw.eu/osb/div10/mdc-tutorial
+- https://github.com/gw-odw/odw-2022/tree/main
+- https://wdfpipe.gitlab.io/
+- https://gwpy.github.io/docs/stable/
+- https://pycbc.org/
+- https://github.com/OverLordGoldDragon/ssqueezepy
+
+## You will learn
+- How to read and plot the data
+- How to preprocess
+- How to whiten the data
+- How to map in Time-Frequency the signal
+- How to apply the matched filter
 
 ## Contents
 
