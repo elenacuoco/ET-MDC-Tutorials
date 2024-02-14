@@ -56,7 +56,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-The ESCAPE VRE (https://vre-hub.github.io/) team and Enrique Garcia  enrique.garcia.garcia at cern.ch for his valuable support
+The ESCAPE VRE (https://vre-hub.github.io/) team and Enrique Garcia  enrique.garcia at cern.ch for his valuable support
 
  
 
