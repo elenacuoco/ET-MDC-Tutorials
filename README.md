@@ -2,8 +2,8 @@
 [ETworkshop2024] (https://agenda.infn.it/event/38405/) February 20-23th in Assisi
 
 ## Author
-- Author: [Elena Cuoco]
-- Contact: [elena.cuoco@ego-gw.it]
+- Author: Elena Cuoco
+- Contact: elena.cuoco@ego-gw.it
 
 ## Overview
 
@@ -22,9 +22,9 @@ The Mock Data Challenge involves simulating gravitational-wave signals and testi
 
 ## You will learn
 - How to read and plot the data
-- How to preprocess
-- How to whiten the data
-- How to map in Time-Frequency the signal
+- How to preprocess the signals
+- How to whiten the data in frequency and time-domain
+- How to map signals in Time-Frequency domain
 - How to apply the matched filter
 
 ## Contents
